@@ -1,0 +1,9 @@
+/target/
+.project
+.classpath
+.factorypath
+target
+.settings
+frontend/todo-app/build
+frontend/todo-app/node_modules
+
